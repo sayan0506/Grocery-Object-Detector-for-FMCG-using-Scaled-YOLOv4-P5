@@ -14,3 +14,8 @@ Object Detection problem statement [Deep Learning based Object Detector](https:/
 
 * The dataset used for training/testing is the Grocery dataset. Link to the dataset: https://github.com/gulvarol/grocerydataset
 * Please use the following link to download ShelfImages.tar.gz (contains train and test splits) and replace GroceryDataset_part1/ShelfImages with this https://storage.googleapis.com/open_source_datasets/ShelfImages.tar.gz
+
+
+# **Reference**
+
+* **[Mask RCNN on custom Dataset ](https://youtu.be/1u-dm5JMH1Q)**
