@@ -21,3 +21,4 @@ Object Detection problem statement [Deep Learning based Object Detector](https:/
 * **[Mask RCNN on custom Dataset ](https://youtu.be/1u-dm5JMH1Q)**
 * **[Simplifying Grocery Checkout with Deep Learning - CS230 ...](http://cs230.stanford.edu/projects_fall_2019/reports/26257432.pdf)**
 * **[Detecting Objects in (almost) Real-time: FasterRCNN Explained with Code](https://towardsdatascience.com/fasterrcnn-explained-part-1-with-code-599c16568cff)**
+* **[Faster R-CNN: Down the rabbit hole of modern object detection](https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/)**
