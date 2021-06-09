@@ -19,3 +19,4 @@ Object Detection problem statement [Deep Learning based Object Detector](https:/
 # **Reference**
 
 * **[Mask RCNN on custom Dataset ](https://youtu.be/1u-dm5JMH1Q)**
+* **[Simplifying Grocery Checkout with Deep Learning - CS230 ...](http://cs230.stanford.edu/projects_fall_2019/reports/26257432.pdf)**
