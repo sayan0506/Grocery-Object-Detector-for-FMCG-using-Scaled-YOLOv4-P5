@@ -15,6 +15,15 @@ Object Detection problem statement [Deep Learning based Object Detector](https:/
 * The dataset used for training/testing is the Grocery dataset. Link to the dataset: https://github.com/gulvarol/grocerydataset
 * Please use the following link to download ShelfImages.tar.gz (contains train and test splits) and replace GroceryDataset_part1/ShelfImages with this https://storage.googleapis.com/open_source_datasets/ShelfImages.tar.gz
 
+# **Approach**
+
+We have used transfer learning for the object detection using scaled-Yolov4-P5. Considering compatibality and checking with image shapes, Yolov4-P5 is found suitable having image size 896. The model is pre-trained with Ms-coco dataset, was trained with the FMCG Grocery data for 110 epochs. The sample training performance can be found below:
+
+![train]()
+
+The sample inference of test data is given below:
+
+![inference]()
 
 # **Reference**
 
