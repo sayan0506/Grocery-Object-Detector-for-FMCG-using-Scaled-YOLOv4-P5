@@ -23,7 +23,7 @@ We have used transfer learning for the object detection using scaled-Yolov4-P5. 
 
 The sample inference of test data is given below:
 
-![inference]()
+![inference](https://github.com/sayan0506/Grocery-Object-Detector-for-FMCG-using-Scaled-YOLOv4-P5/blob/main/images/test_batch0_pred.jpg)
 
 # **Reference**
 
