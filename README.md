@@ -28,3 +28,4 @@ Object Detection problem statement [Deep Learning based Object Detector](https:/
 * [Evolution Of Object Detection Networks](https://www.youtube.com/playlist?list=PL1GQaVhO4f_jLxOokW7CS5kY_J1t1T17S)
 * [YOLOv4 PyTorch](https://models.roboflow.com/object-detection/yolov4-pytorch)
 * [Scaled YOLOv4 - Pytorch](https://models.roboflow.com/object-detection/scaled-yolov4)
+* [YOLOv4-Large](https://github.com/WongKinYiu/ScaledYOLOv4)
