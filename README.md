@@ -25,6 +25,8 @@ The sample inference of test data is given below:
 
 ![inference](https://github.com/sayan0506/Grocery-Object-Detector-for-FMCG-using-Scaled-YOLOv4-P5/blob/main/images/test_batch0_pred.jpg)
 
+The detailed experiemnt result can be found from colab notebook [here]().
+
 # **Reference**
 
 * **[Mask RCNN on custom Dataset ](https://youtu.be/1u-dm5JMH1Q)**
