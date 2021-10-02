@@ -19,7 +19,7 @@ Object Detection problem statement [Deep Learning based Object Detector](https:/
 
 We have used transfer learning for the object detection using scaled-Yolov4-P5. Considering compatibality and checking with image shapes, Yolov4-P5 is found suitable having image size 896. The model is pre-trained with Ms-coco dataset, was trained with the FMCG Grocery data for 110 epochs. The sample training performance can be found below:
 
-![train]()
+![train](https://github.com/sayan0506/Grocery-Object-Detector-for-FMCG-using-Scaled-YOLOv4-P5/blob/main/images/results.png)
 
 The sample inference of test data is given below:
 
