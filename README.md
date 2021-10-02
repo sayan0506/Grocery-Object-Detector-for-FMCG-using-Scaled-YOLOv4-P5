@@ -25,7 +25,7 @@ The sample inference of test data is given below:
 
 ![inference](https://github.com/sayan0506/Grocery-Object-Detector-for-FMCG-using-Scaled-YOLOv4-P5/blob/main/images/test_batch0_pred.jpg)
 
-* *The detailed experiemnt result can be found from colab notebook [here]().
+* *The detailed experiemnt result can be found from colab notebook [here](https://github.com/sayan0506/Grocery-Object-Detector-for-FMCG-using-Scaled-YOLOv4-P5/blob/main/FMCG_detection_on_GroceryDataset_using_scaled_YOLOv4.ipynb).
 * *All the documents regarding the experiment and model weights can be found from drive link [drive-yolov4](https://drive.google.com/drive/folders/1iN21WGeO0h-kKCTGcRpxFZwe71K3Zqdj?usp=sharing)
 
 # **Reference**
