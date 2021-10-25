@@ -42,3 +42,4 @@ The sample inference of test data is given below:
 * [YOLOv4 PyTorch](https://models.roboflow.com/object-detection/yolov4-pytorch)
 * [Scaled YOLOv4 - Pytorch](https://models.roboflow.com/object-detection/scaled-yolov4)
 * [YOLOv4-Large](https://github.com/WongKinYiu/ScaledYOLOv4)
+* [Complete IoU(CIOU) Loss Intuitive Explanation](http://karthink.me/journal/Complete-IoU.html)
